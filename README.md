@@ -58,15 +58,15 @@
    
 
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px" height="35px"> </h2>
-/*
+
 <details open> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <img alt="Kylym's Github Stats" src="https://github-readme-stats-ruby-one.vercel.app/api?username=kylym1631&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    <img alt="Kylym's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kylym1631&show_icons=true&count_private=true&theme=algolia" height="192px"/>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=kylym1631&show_icons=true&locale=en&layout=compact&theme=algolia" alt="kylym1631" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kylym1631&show_icons=true&locale=en&layout=compact&theme=algolia" alt="kylym1631" height="192px"/>
   <br/>
   </p>
 </details>
@@ -79,7 +79,7 @@
   <br/>
 
 </details>
-*/
+
 
 <br/>
 
