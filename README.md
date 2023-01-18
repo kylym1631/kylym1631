@@ -75,7 +75,7 @@
 <details open>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <img alt="Kylym's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kylym1631&custom_title=Kylym's%20Contribution%20Graph&theme=react-dark" />
+   <img alt="Kylym's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kylym1631&custom_title=Kylym's%20Contribution%20Graph&theme=react-dark" />
   <br/>
 
 </details>
