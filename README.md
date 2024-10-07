@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h1>
 <p align='center'>
@@ -75,7 +74,6 @@
 <details open>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <img alt="Kylym's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kylym1631&custom_title=Kylym's%20Contribution%20Graph&theme=react-dark" />
   <br/>
 
 </details>
